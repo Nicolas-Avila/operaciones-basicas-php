@@ -1,0 +1,49 @@
+ form{
+     display: block;
+     text-align: center;
+     padding: 10px;
+     background-color: rgb(38, 38, 168);
+     border-radius: 30px;
+     width: 70%;
+     margin: auto;
+     
+ }
+ h1{
+     text-align: center;
+     font-size: 3em;
+ }
+  .ingreso{
+      
+     padding: 5px;
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+     
+ }
+
+ .cuenta{
+     width: 80%;
+     margin: auto;
+     background-color: rgba(44, 44, 138, 0.925);
+     padding: 5px;
+     display: block;
+     text-align: center;
+    text-decoration: underline;
+    border-radius: 30px;
+       
+ }
+ #boton{
+     margin-top: 5px;
+ }
+ input,label{
+     font-size: 2em;
+ }
+ #boton:hover{
+    background-color: green;
+ }
+     
+p{
+    font-size: 2em;
+    text-align: center;
+}
+ 
